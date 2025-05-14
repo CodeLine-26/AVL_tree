@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-set(PROJECT_NAME AVL_tree)
+set(PROJECT_NAME AVL_Tree)
 project(${PROJECT_NAME})
 
 set(CMAKE_CXX_STANDARD 17)
