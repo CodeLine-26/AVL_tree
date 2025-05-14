@@ -1,5 +1,5 @@
 ﻿#include "gtest.h"
-#include "AVL_Tree.h"
+#include "AVL_tree.h"
 
 int main(int argc, char** argv)
 {
